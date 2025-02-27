@@ -1,4 +1,4 @@
-# anpacollege-Demo
+# apnacollege-Demo
 This is my first repository .
 <br>
 Author - Divyam Patel
